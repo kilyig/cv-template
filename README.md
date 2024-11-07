@@ -1,3 +1,3 @@
 # Long CV Template in $\LaTeX$
 
-![CV Template First Page](/CV_template_first_page.svg)
+![CV Template First Page](/cv_template_first_page.png)
